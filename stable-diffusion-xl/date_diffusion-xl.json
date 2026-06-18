@@ -1,0 +1,6 @@
+{
+  "model": "Stable Diffusion Xl",
+  "author": "StabilityAI",
+  "license": "Creative ML Open RAIL-M",
+  "type": "diffusers"
+}
